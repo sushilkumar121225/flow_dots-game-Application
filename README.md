@@ -1,4 +1,4 @@
-🎮 Flow Dots – Puzzle Game Application
+# 🎮 Flow Dots – Puzzle Game Application
 
 ✨ A visually engaging and brain-challenging puzzle game built with Flutter.
 
