@@ -1,3 +1,5 @@
+// It mainly defines data structures for levels and points.
+
 import 'package:flutter/material.dart';
 
 class PathPoint {
@@ -62,3 +64,4 @@ class LevelData {
     );
   }
 }
+// modified by: Sushil Raj
