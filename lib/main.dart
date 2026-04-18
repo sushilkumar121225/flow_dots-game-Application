@@ -1,3 +1,5 @@
+// Entry Point of My App
+
 import 'package:flutter/material.dart';
 import 'screens/splash.dart';
 import 'database/db_helper.dart';
