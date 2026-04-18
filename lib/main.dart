@@ -1,4 +1,4 @@
-// Entry Point of My App
+// Entry Point of My App..
 
 import 'package:flutter/material.dart';
 import 'screens/splash.dart';
