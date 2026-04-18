@@ -1,5 +1,5 @@
 // It mainly defines data structures for levels and points.
-
+// This is backend logic only
 import 'package:flutter/material.dart';
 
 class PathPoint {
